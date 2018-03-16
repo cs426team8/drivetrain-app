@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Drivetrain</string>
+    <string name="queryButton">Query</string>
+    <string name="queryHistoryButton">Query History</string>
+    <string name="aboutButton">About</string>
+    <string name="queryButton_2">Query</string>
+    <string name="select_gender">Gender</string>
+    <string name="select_rent">Rent/Own</string>
+
+    <string name="select_relationship">Relationship</string>
+    <string name="select_age">Age</string>
+    <string name="select_children">Children</string>
+    <string name="select_education">Education</string>
+    <string name="About">About</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="rent_array">
+        <item>Homeowner</item>
+        <item>Renter</item>
+    </string-array>
+    <string-array name="relationship_array">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+    <string-array name="age_array">
+        <item>Under 20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+        <item>51-60</item>
+        <item>61-70</item>
+        <item>71-80</item>
+        <item>Over 80</item>
+    </string-array>
+    <string-array name="children_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7+</item>
+    </string-array>
+    <string-array name="education_array">
+        <item>High School</item>
+        <item>Undergraduate</item>
+        <item>Graduate</item>
+    </string-array>
+</resources>
